@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="obsidian_background">#FF09090B</color>
+    <color name="charcoal_surface">#FF121215</color>
+    <color name="elevated_slate">#FF1A1A1F</color>
+    <color name="bone_white">#FFF4F1EA</color>
+    <color name="crimson_primary">#FFC81E1E</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

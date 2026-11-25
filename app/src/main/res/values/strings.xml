@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">The Missing Page</string>
+    <string name="brand_title">THE MISSING PAGE</string>
+    <string name="brand_subtitle">S-TIER OFFLINE STUDIO</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_archive">Archive</string>
+    <string name="nav_engine">Engine &amp; Vault</string>
+    <string name="studio_control_panel">MASTER CONTROL PANEL</string>
+    <string name="studio_generate_cta">GENERATE SCRIPT</string>
+    <string name="studio_stop_cta">STOP GENERATION</string>
+    <string name="studio_continue_cta">Continue / Expand Story</string>
+    <string name="studio_console_title">LIVE STREAMING CONSOLE</string>
+    <string name="studio_audit_title">DETERMINISTIC AUDIT SCORECARD</string>
+    <string name="archive_title">EDITORIAL ARCHIVE</string>
+    <string name="archive_empty_title">No Saved Scripts Yet</string>
+    <string name="archive_empty_subtitle">Generate an episode in the Studio tab to archive TTS-ready and Master scripts locally.</string>
+    <string name="export_tts_ready">Copy / Save TTS-Ready (.txt)</string>
+    <string name="export_full_master">Copy / Save Full Master (.txt)</string>
+    <string name="engine_title">LOCAL ENGINE &amp; PROMPT VAULT</string>
+    <string name="engine_pick_gguf">Select .gguf Model</string>
+    <string name="engine_load_model">Load Model into Memory</string>
+    <string name="engine_unload_model">Unload Model</string>
+    <string name="vault_import_prompt">Import God Prompt (.txt)</string>
+    <string name="vault_view_prompt">View Vault Prompt</string>
+</resources>

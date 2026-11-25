@@ -1,0 +1,8 @@
+{
+  "name": "The Missing Page",
+  "description": "100% offline luxury editorial-noir Android studio for running local GGUF language models on-device with THE MISSING PAGE GOD PROMPT v5.3.4-US.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
